@@ -1,0 +1,12 @@
+# server
+"mcp[cli]"
+psycopg2
+psycopg[binary]
+
+
+#client
+langchain 
+langgraph 
+langchain_anthropic 
+langchain-mcp-adapters
+langchain-google-genai
